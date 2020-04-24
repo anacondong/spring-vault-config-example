@@ -4,7 +4,7 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @Data
-@ConfigurationProperties("javatechie")
+@ConfigurationProperties("anacondong")
 public class Credential {
 
     private String username;
